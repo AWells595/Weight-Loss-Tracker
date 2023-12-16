@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Weight Loss Tracking App</string>
+    <string name="please_enter_your_username">Please enter your username</string>
+    <string name="app_title_string">My Weight Loss App</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="log_in">Log-In</string>
+    <string name="data_layout">Date Recorded \n Weight</string>
+    <string name="grid_layout_title">Recorded Weights</string>
+    <string name="change_goal">Edit Goal Weight</string>
+    <string name="record_weight">Record New Weight</string>
+    <string name="delete_row">Delete selected row</string>
+
+    <string name ="log_in_empty_fields">Username and/or password cannot be blank</string>
+    <string name ="log_in_username_not_Found">Username is not found please create new account</string>
+    <string name="log_in_password_incorrect">Password does not match please try again</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="permission_statement">This app requests permission to communicate with your text messaging app to send your notifications. \n \n Do you accept?</string>
+    <string name="lbs">lbs</string>
+    <string name="update_goal_weight">Update Goal Weight</string>
+    <string name="enter_goal_weight">Enter Goal Weight</string>
+    <string name="update_recorded_weight">Update Recorded Weight</string>
+    <string name="update">Update</string>
+    <string name="update_button_text">update</string>
+    <string name="add">Add</string>
+    <string name="add_new_weight">Add New Weight</string>
+</resources>
